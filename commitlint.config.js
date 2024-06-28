@@ -1,1 +1,1 @@
-export const extends = ['@commitlint/config-conventional'];
+'@commitlint/config-conventional'];
